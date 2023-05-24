@@ -1,0 +1,11 @@
+C:\Users\Home\source\repos\PlatformerFinal\PlatformerFinal\bin\Debug\PlatformerFinal.exe.config
+C:\Users\Home\source\repos\PlatformerFinal\PlatformerFinal\bin\Debug\PlatformerFinal.exe
+C:\Users\Home\source\repos\PlatformerFinal\PlatformerFinal\bin\Debug\PlatformerFinal.pdb
+C:\Users\Home\source\repos\PlatformerFinal\PlatformerFinal\obj\Debug\PlatformerFinal.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\PlatformerFinal\PlatformerFinal\obj\Debug\PlatformerFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home\source\repos\PlatformerFinal\PlatformerFinal\obj\Debug\PlatformerFinal.Form1.resources
+C:\Users\Home\source\repos\PlatformerFinal\PlatformerFinal\obj\Debug\PlatformerFinal.Properties.Resources.resources
+C:\Users\Home\source\repos\PlatformerFinal\PlatformerFinal\obj\Debug\PlatformerFinal.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\PlatformerFinal\PlatformerFinal\obj\Debug\PlatformerFinal.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\PlatformerFinal\PlatformerFinal\obj\Debug\PlatformerFinal.exe
+C:\Users\Home\source\repos\PlatformerFinal\PlatformerFinal\obj\Debug\PlatformerFinal.pdb
